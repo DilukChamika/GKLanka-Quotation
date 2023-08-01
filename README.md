@@ -5,10 +5,12 @@ GK Lanka International (Pvt) Ltd is a startup company for installing solar panel
 This was an immediate requirement and I created the interface for get inputs and another file for generate PDF. Both files are written in php using html,css and javascript. 
 I used mPDF library for the pdf generating part. 
 
-If you want to run this application, you have to install mPDF setup in this directory by using
+<hr/>
+If you want to run this application, you have to install mPDF library setup in this directory(parrelall to 'ongrid2.php' file) on your host/localhost by using
 <br/>
 <b> $ composer require mpdf/mpdf </b>
 <br/> command.
+<hr/>
 
 <br/>
 This is an example quatation document with its original naming format. 
